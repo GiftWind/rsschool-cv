@@ -1,1 +1,1 @@
-https://giftwind.github.io/rsschool-cv/cv
+https://giftwind.github.io/rsschool-cv/
